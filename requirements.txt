@@ -1,0 +1,9 @@
+streamlit
+pandas
+google-generativeai
+streamlit-webrtc
+opencv-python-headless
+deepface
+SpeechRecognition
+pyaudio
+av
